@@ -1,0 +1,8 @@
+[encryptor]
+hls_dir = /var/www/html/hls
+key_encryptor_url = <key_encryptor_url>
+key_client_url = <key_client_url>
+chunks_number = 5
+refresh_interval = 1
+content_id = 1
+clear_playlist_suffix = _clear
