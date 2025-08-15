@@ -1,0 +1,10 @@
+[
+  {
+    "source": "http://192.168.53.115/hls/domophone-1-sensor_camera0.m3u8",
+    "depth_in_hours": 0.1
+  },
+  {
+    "source": "http://192.168.53.192/hls/domophone-office-camai-01_camera0.m3u8",
+    "depth_in_hours": 0.1
+  }
+]

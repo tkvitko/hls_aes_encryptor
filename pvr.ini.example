@@ -1,0 +1,4 @@
+[writer]
+pvr_dir = ./pvr
+[plstgen]
+chunk_prefix = http://127.0.0.1/pvr/
